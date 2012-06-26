@@ -1,16 +1,12 @@
 {
-	"auto_upgrade_last_run": 1340566192,
+	"auto_upgrade_last_run": 1340752948,
 	"installed_packages":
 	[
 		"CoffeeScript",
 		"DetectSyntax",
 		"GoSublime",
-		"Jasmine",
 		"Package Control",
-		"RSpec",
-		"SublimeCodeIntel",
-		"SublimeLinter",
-		"SublimePeek",
+		"RSpec (snippets and syntax)",
 		"Theme - Soda"
 	],
 	"repositories":
