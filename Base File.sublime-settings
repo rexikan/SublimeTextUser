@@ -1,0 +1,18 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"detect_indentation": true,
+	"draw_white_space": "selection",
+	"highlight_line": true,
+	"shift_tab_unindent": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+  "word_wrap": false,
+  // Controls how the indent guides are drawn, valid options are
+  // "draw_normal" and "draw_active". draw_active will draw the indent
+  // guides containing the caret in a different color.
+  "indent_guide_options": ["draw_active"],
+
+  // Set to true to removing trailing white space on save
+  "trim_trailing_white_space_on_save": true
+
+}
